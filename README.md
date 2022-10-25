@@ -8,9 +8,7 @@
 
 **What I learned in this project**:
 
-  - I learned how to use position , how they really works, how they are different.
-  - I learned to create navbar link hover effect.
-  - Learned about before after pseudo selectors.
+  - Learned to change color of svg images using filter.
 
 **The project took ***13 Hours*** to complete.** 
 
